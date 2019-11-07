@@ -1,5 +1,5 @@
 No of questons in the original text -> 28
-No of question in this version -> 17
+No of questions in this version -> 17
 
 1 --> 1,2,3
 2 --> 4,5,6,7
