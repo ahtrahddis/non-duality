@@ -14,9 +14,9 @@ Every living being longs to be perpetually happy, without any misery. Since in e
 
 **Editor's Footnotes:**
 
-<p id="fn1"><a href="#r1">1.</a> This e-book does not follow the original formatting (as described here) found in David Godman's website. 
+<p id="fn1"><a href="#r1">1.</a></p> This e-book does not follow the original formatting (as described here) found in David Godman's website. 
 
-<p id="fn2"><a href="#r2">2.</a> The comments by David Godman can be found in the subsections named *Commentary*.
+<p id="fn2"><a href="#r2">2.</a></p> The comments by David Godman can be found in the subsections named *Commentary*.
 
 ---
 
@@ -332,4 +332,4 @@ This e-book was created by [atrahhdis](https://github.com/atrahhdis) using [mark
 
 ## Version
 
-V 1.1 - 2019-10-04
+V 1.2 - 2019-10-07
