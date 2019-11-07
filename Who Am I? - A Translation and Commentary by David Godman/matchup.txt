@@ -1,0 +1,26 @@
+original essays questions ->28
+David Godman's version questions -->17
+
+1 --> 1,2,3
+2 --> 4,5,6,7
+3 --> 8
+4 --> 9
+5 --> 10
+6 --> 11,25
+7 --> 16
+8 --> 12,13
+9 --> 14
+10 --> 15,19
+11 --> 18,20
+12 --> 24
+13 --> 17
+14 --> 23,27,28
+15 --> 21
+16 --> 22
+17 -->
+
+todo:
+----
+
+- find reference to 17
+- find where original question 26 is located
