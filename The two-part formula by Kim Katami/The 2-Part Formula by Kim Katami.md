@@ -36,7 +36,7 @@ These are the steps of the Two-Part Formula. It’s necessary to thoroughly appl
 
 ## Source 
 
-[How to Become Awakened] (https://www.openheart.fi/113) by [Kim Katami](https://www.openheart.fi/33)
+[How to Become Awakened](https://www.openheart.fi/113) by [Kim Katami](https://www.openheart.fi/33)
 
 ## About this e-book
 
@@ -44,4 +44,4 @@ This e-book was created by [atrahhdis](https://github.com/atrahhdis) using [mark
 
 ## Version
 
-V 1.0 - 2019-12-23
+V 1.1 - 2019-12-23
