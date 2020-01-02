@@ -18,7 +18,6 @@ Every living being longs to be perpetually happy, without any misery. Since in e
 
 <p id="fn2"><sub><a href="#r2">2.</a> The comments by David Godman can be found in the subsections named "Commentary".</sub></p>
 
-
 # Questions and Answers
 
 ## Question 1
@@ -331,4 +330,4 @@ This e-book was created by [atrahhdis](https://github.com/atrahhdis) using [mark
 
 ## Version
 
-V 1.5 - 2019-12-30
+V 1.6 - 2020-01-02
