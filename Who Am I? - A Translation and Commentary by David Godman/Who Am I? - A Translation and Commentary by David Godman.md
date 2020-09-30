@@ -326,8 +326,8 @@ Ramana Maharshi's ***Who Am I?*** essay was translated and commented by [David G
 
 ## About this e-book
 
-This e-book was created by [atrahhdis](https://github.com/atrahhdis) using [markdown](https://en.wikipedia.org/wiki/Markdown), [aspell](http://aspell.net/), [pandoc](https://pandoc.org/) and [calibre](https://calibre-ebook.com/).
+This e-book was created by [ahtrahddis](https://ahtrahddis.github.io) using [markdown](https://en.wikipedia.org/wiki/Markdown), [aspell](http://aspell.net/), [pandoc](https://pandoc.org/) and [calibre](https://calibre-ebook.com/).
 
 ## Version
 
-V 1.6 - 2020-01-02
+V 1.7 - 2020-09-30
