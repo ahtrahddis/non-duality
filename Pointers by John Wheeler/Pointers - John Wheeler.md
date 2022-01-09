@@ -18,7 +18,7 @@ Thoughts come and go, images come and go, even the idea of “I” comes and goe
 
 <center>—∗—</center>
 
-There is something here that never changes. It is in fact what you are. It is here as clear as day and totally inescapable. But we overlook what is clear and obvious. We look at everything but we don’t look at what we are. Can you deny your being? No. So what have your learned and seen about this doubtless being that you are? There is no going into an “infinite regress,” because it is here, front and center. It is the most obvious thing, the “elephant in the room.” So what have you learned about this ever-present fact of your own being? This is what we overlook for a time. Go by your direct experience and see what you find about yourself. Everything that appears, that comes and goes, is not yourself. So you can factor out those things immediately.
+There is something here that never changes. It is in fact what you are. It is here as clear as day and totally inescapable. But we overlook what is clear and obvious. We look at everything but we don’t look at what we are. Can you deny your being? No. So what have you learned and seen about this doubtless being that you are? There is no going into an “infinite regress,” because it is here, front and center. It is the most obvious thing, the “elephant in the room.” So what have you learned about this ever-present fact of your own being? This is what we overlook for a time. Go by your direct experience and see what you find about yourself. Everything that appears, that comes and goes, is not yourself. So you can factor out those things immediately.
 
 <center>—∗—</center>
 
