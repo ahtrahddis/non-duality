@@ -11,6 +11,7 @@ It presents the traditional teachings of Advaita Vedanta with a clarity and powe
 The translation here is by John Richards, and is presented to the public domain with his affection. The work has been a constant inspiration in his life for many years. May it be so for many others.
 
 John Richards
+
 Stackpole Elidor, UK
 
 # 1. Instruction on self-realization
