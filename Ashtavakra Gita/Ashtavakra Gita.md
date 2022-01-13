@@ -145,7 +145,7 @@ An object of enjoyment that comes of itself is neither painful nor pleasurable f
 
 # 4. Glory of self-realization
 
-**Ashtavakra said**
+**Ashtavakra said:**
 
 The wise person of self-knowledge, playing the game of worldly enjoyment, bears no resemblance whatever to samsara’s bewildered beasts of burden. *4.1*
 
