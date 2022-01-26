@@ -14,6 +14,46 @@ You already are what you have been seeking. This is what we overlook.
 
 <center>—∗—</center>
 
+“Awareness” is only one pointer. Do not get too committed to it. The point is to see what you are. You are not a pointer!
+
+<center>—∗—</center>
+
+How can you leave your existence? It is not possible.
+
+<center>—∗—</center>
+
+Consciousness itself is an expression of your real nature. It is appearing like everything else. This is why Nisargadatta Maharaj points to reality as “prior to consciousness”. Few appreciate this point.
+
+<center>—∗—</center>
+
+You are prior to sound and silence.
+
+<center>—∗—</center>
+
+Full stop! This is the final answer.
+
+<center>—∗—</center>
+
+See the trap of continuing to look in the mind for what you already are.
+
+<center>—∗—</center>
+
+Follow your direct experience instead of letting the mind take over the search.
+
+<center>—∗—</center>
+
+You are already present prior to concepts.
+
+<center>—∗—</center>
+
+Stop looking in the mind. You are present as THAT (reality), here and now.
+
+<center>—∗—</center>
+
+Who is searching for what, when we are already THAT? 
+
+<center>—∗—</center>
+
 Thoughts come and go, images come and go, even the idea of “I” comes and goes. It is all mental content, without substance and transient in nature. It is all simply an appearance in consciousness. Seeing this, then any more mucking around in the mind stuff, digging for answers and solutions is a fool’s game. There is a completely different direction to be looking at this point. There is something present that is not coming and going, totally unaffected by the content of the mind. This is what is being pointed to by terms such as “your real nature,” “being,” “awareness,” etc. Have you come to terms with this principle, this factor? Once there is looking in this direction, you are totally out of the mind. See if you can spot what I am talking about here. This is what I call the positive side of the equation. Negating the mind contents and conceptual constructions, such as the “I” thought, only takes one so far. You must acknowledge that which is present and which is entirely non-conceptual and completely untouched by the appearances. What have you seen of this?
 
 <center>—∗—</center>
@@ -1051,7 +1091,7 @@ Thoughts come and go, images come and go, even the idea of “I” comes and goe
 
 <center>—∗—</center>
 
-There is something here that never changes. It is in fact what you are. It is here as clear as day and totally inescapable. But we overlook what is clear and obvious. We look at everything but we don’t look at what we are. Can you deny your being? No. So what have your learned and seen about this doubtless being that you are? There is no going into an “infinite regress,” because it is here, front and center. It is the most obvious thing, the “elephant in the room.” So what have you learned about this ever-present fact of your own being? This is what we overlook for a time. Go by your direct experience and see what you find about yourself. Everything that appears, that comes and goes, is not yourself. So you can factor out those things immediately.
+There is something here that never changes. It is in fact what you are. It is here as clear as day and totally inescapable. But we overlook what is clear and obvious. We look at everything but we don’t look at what we are. Can you deny your being? No. So what have you learned and seen about this doubtless being that you are? There is no going into an “infinite regress,” because it is here, front and center. It is the most obvious thing, the “elephant in the room.” So what have you learned about this ever-present fact of your own being? This is what we overlook for a time. Go by your direct experience and see what you find about yourself. Everything that appears, that comes and goes, is not yourself. So you can factor out those things immediately.
 
 <center>—∗—</center>
 
@@ -1257,15 +1297,13 @@ Content and consciousness are a dualistic pair. Who can have objects without con
 
 The whole point is to clarify and understand what you are. The pointers are only for encouraging you to do that. One of the best pointers is to see that whatever you are must be always present, always with you. You cannot lose your own being. When you examine your own experience, you can quickly eliminate all that changes, all that comes and goes. The purpose of this is to “clear the decks”, in order to more clearly see that which is present and beyond change. That is what is being pointed to by the various pointers. But don’t get too hung up on the pointers, because the pointers are not “it”. That is why they are called “pointers”. They are pointers TO what you are. 
 
-
-
 # Notes
 
 ## Source
 
 [The Natural State](https://johnwheelernonduality.wordpress.com/pointers)
 
-[John Wheeler's archived website](https://web.archive.org/web/20120726032917/http://www.thenaturalstate.info)
+[Various backups of John Wheeler's archived website](https://web.archive.org/web/2013*/www.thenaturalstate.info/pointers.html)
 
 ## About this e-book
 
@@ -1273,4 +1311,4 @@ This e-book was created by [ahtrahddis](https://ahtrahddis.eu) using [markdown](
 
 ## Version
 
-V 1.00 - 2022-01-08
+V 1.1 - 2022-01-26
